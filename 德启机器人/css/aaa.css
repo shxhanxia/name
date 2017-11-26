@@ -1,0 +1,57 @@
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+	color: black;
+}
+
+ul{
+    list-style: none;
+}
+body{
+	background-color: orangered;
+	color: red;
+}
+
+#A22{
+	display: inline-block;
+	width: 100%;
+	height: 100px;
+	background-color:olivedrab;
+}
+#A33{
+	display: inline-block;
+	width: 20%;
+	height: 100px;
+	background-color: green;
+}
+#A44{
+	display: inline-block;
+	width: 20%;
+	height: 100px;
+	background-color: yellow;
+}
+#A11{
+	display: inline-block;
+	width:20%;
+	height: 100px;
+	background-color:wheat;
+}
+
+#A11  {
+	color: green;
+	text-align: center;
+}
+
+.nav li {
+	color: yellow;
+	display: inline-block;
+	background-color: green;
+	width: 100px;
+	height: 80px;
+	margin-left: 20px;
+	text-align: center;
+	line-height: 80px;
+}
+

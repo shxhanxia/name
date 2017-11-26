@@ -1,0 +1,119 @@
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+	color: black;
+}
+ul{
+    list-style: none;
+}
+body{
+	text-align: center;
+	 width:100%;
+     margin:0 auto;
+     background-image: url(../img/bg.png);
+	background-size: cover;
+	background-repeat:no-repeat;
+	color: white;
+}
+
+#time{
+	text-align: right;
+	margin-right: 40px;
+	margin-top: 20px;
+	color: white;
+}
+
+#logo{
+	margin-top: 10px;
+	width: 100%;
+	height: 60px;
+	margin-bottom: 10px;
+}
+
+.logo-log img{
+	width: 80px;
+	float: left;
+	margin-left: 20px;
+
+}
+.logo-title{
+	
+	float: right;
+	height: 60px;
+	width: 90%;
+}
+.logo-title img{
+	width: 90%;
+	height: 60px;
+	
+}
+
+
+#topcontent{
+	 width:100%;
+	 height: 40px;
+	 float: right;
+	 background-color: green;
+	 background-color: yellow;
+}
+
+.nav{
+	display: inline-block;
+	text-align: center;
+	width:90%;
+	height: 40px;
+	margin: 0 auto;
+}
+
+
+
+.nav ul li {
+	margin-left: 4%;
+	width:22%;
+	height: 40px;
+    float: left;
+    font-size: 15px;
+    background-color: red;
+}
+
+.nav ul li:first-child{
+	margin-left: 0;
+}
+
+#bottomcontent{
+	 width:100%;
+	 height: 800px;
+	 float: right;
+	 background-color: green;
+}
+
+.bottomfirst ul li{
+    margin-left: 4%;
+	width:22%;
+	height: 60px;
+   float: left;
+   font-size: 15px;
+   background-color: red;
+
+}
+
+.bottomfirst ul li:first-child{
+	margin-left: 0;
+}
+
+.haveboder{
+	 width:90%;
+	 height: 60px;
+	 border-top: solid white 1px;
+	margin: 0 auto;
+}
+
+
+.bottomfirst ul li div{
+	margin-top: 10px;
+
+}
+
+
